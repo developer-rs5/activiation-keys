@@ -1,3 +1,4 @@
 zenuxs0963;192.168.1.100
 test-local;127.0.0.1
 localhost;localhost
+zenuxs-plugin1276;bhagupur.kinghosting.in:27990
