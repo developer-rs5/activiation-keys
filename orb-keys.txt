@@ -3,3 +3,4 @@ test-local;127.0.0.1
 localhost;localhost
 zenuxs-plugin1276;bhagupur.kinghosting.in:27990
 orbplugin-by-zenuxs0007;88.198.10.232
+zenuxs-orbs;node03.team.the-network.cloud
